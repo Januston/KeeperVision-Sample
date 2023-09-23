@@ -1,4 +1,4 @@
 # KeeperVision-Sample
-"🥅 Welcome to the KeeperVision sample repository. As this project is still in development, we're unable to share the full code. However, included is a video demonstration showcasing its ability to guide goalies using YOLO detection. Witness a sneak peek of what it's truly capable of!"
+🥅 Welcome to the KeeperVision sample repository. Developed with a Flask server, this initial test demonstrates its prowess in guiding goalies using YOLO detection. While we can't unveil the full code during its development phase, the video offers a glimpse of its capabilities."
 
-Sample video can be found here: https://youtube.com/shorts/fjXBk5eJUsI
+"For our roadmap ahead, we're transitioning from Flask to AWS to significantly boost speed. This shift will also enable support for more simultaneous users. Beyond this, anticipate enhanced direction speeds and the addition of insightful metrics.
